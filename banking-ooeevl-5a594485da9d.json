@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "banking-ooeevl",
+  "private_key_id": "5a594485da9d8aed69502941f0c1e7cde25ad879",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDid4DcmR7BXpSs\nP/tCR52YGSUBsXy+YOLcVtYE4cd/r+2Iz5NnRt56+n7NarMbf5H2U9eyv5YaqjpQ\nrJoOKtpz43IsrHCI55GI97i/L1EylG3/9p1DYdmAJg22jdBfesULu2kL+xyuTLmG\nXdB6+XqBp6R1qjOHJtFWDxkTGCvFiXkY1Qz3H2DOQnIQWGq/wHGWGEZzXl+UzSx5\n3DkyHnhIqRo2Ay8P8fBTyqA6eMY6WkNqjROCnt+ai0B+i6Hbze+TyjILmD0xkwoI\nZ/EyqwbLpXkD05jgLHCfbzpCklubDdA5ZXECRRvKAqwcc5nceO8e/8PbfEn8vYEW\nelwicmYpAgMBAAECggEABNNgExNONPejemIoo/prsMSEZdtW2aWt390X1WXMPvvM\nN3iY3wADGKLC1fS6mVDoFtQligEMHUhYUsTCyZ9/JS4JDkukYD5y+vSwYp6K/+Vq\nzKQAKOHqZREqhKPT91zh2wSk0eUJcOtgnqzcFuq/AglE917nly8sEcXjlmUS9bQU\ndUyDi+OLXSAQQJ6UKvTyg4XaX651u6PShvbeFa8FzzJLDhQGBqUN+oSzQbHq9nLe\nA4U/edHkB4Lfn+AMB3TltwvHu6veywhY+i3xHK5SXcZfrEar3gGzpKOIblz+DZ7I\noIY735x6iUzhEbuHiG9seIdj+TTKui+K75l0npMRUwKBgQD2oMOAA2msYDgZFEkm\nPhZo9ZNRwbHD88k2Rfor2JIvSstd+Mb/aXu2DNxbgFpy4PcSiqeNPkedXWqzlLzm\nUXiEykDrxvNNy0EbJl55mCGm6LserKNB1P6NArwW2XCy9LDB3r5ZlQXElQH6GgxY\nkdlk4736C0Y2ry71NzSXa1zhmwKBgQDrEpvMfRaKa2VLYr9KF1H0viYzYbAD01NO\nghYa0GiKNjeDhtJk313S9yfe6h14xR3QGsjWFqDLvkppw0elira55fN0YX9crGmU\nOoBiruWS1JKlYXuoCVVdursw/rsb70LjZt5hPVZpTduBl/h73gRJ/PSFPFGVvGnE\n8ug8yAGliwKBgGvEMckVNK7C2KB00cXpKWexry7xYVkLhKe3iipwlugdWaH1XBct\nI4aYNg2xl1RNYwjyF2bLiQWFVWOlIanOfcggjJ+6LoSWxRs09+FQDZxeY61yqF/S\nz2wUftXJK8q2yynbx/di+8M7jUKY8T4edQz1ywSguoyYnf8+oTdtDYfzAoGAEY3c\nMJMOwdtvPwfqvP+s0Rf6BlA/MqnvSKeSOwJhLCEMWDgTMhE0EnL+eTkGZmRh6450\nfPhHna9iIy/AA+6t4of3fDNjrWn6oGUV/UiOQD67jLoQ3+WCiHNPU0NSea2OUyj1\nZlGMSGTWBYFxvt4/d776C5ELjqD5TQnOqetNpC0CgYEA3PfByMDvgBRS1+l2h9RD\n4TFsZcO69o9eCy+nNsj2DpMtb9cxngIE1jB1kXa/c399K7qhg6x04kth0ZatTm0/\n/AqICrnM2OM009448loZrhbDS7D0GBkIVP3+uq+Ikt2DcG14IauvrCvzUR4eQEq/\nVLMbElteEwne4312jFjOzTA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "banking-ooeevl@appspot.gserviceaccount.com",
+  "client_id": "108536736229511836300",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/banking-ooeevl%40appspot.gserviceaccount.com"
+}
